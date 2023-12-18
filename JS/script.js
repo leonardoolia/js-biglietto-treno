@@ -13,3 +13,7 @@ console.log(userKm);
 // 4. Creiamo una variabile per determinare il prezzo del biglietto
 const ticketCost = userKm * 0.21;
 console.log(ticketCost);
+
+// 5. Chiediamo l'età
+const userAge = prompt('Quanti anni hai?');
+console.log(userAge);
