@@ -37,7 +37,7 @@ if (userAge > 65) {
 console.log(finalTicketCost.toFixed(2));
 
 // 7. Scriviamo prezzo finale all'utente
-
+userTicketCost.innerHTML = `Il prezzo del tuo biglietto è di: <strong> ${finalTicketCost.toFixed(2)} euro </strong>`;
 
 
 
