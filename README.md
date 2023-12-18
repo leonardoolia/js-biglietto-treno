@@ -14,3 +14,14 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 Buon lavoro!
 
+<hr>
+
+# Step
+
+1. Recuperiamo l'elemento HTML.
+1. Prepariamo il messaggio finale per l'utente.
+1. Chiediamo all'utente il numero di chilometri che vuole percorrere e salviamo i dati in una variabile.
+1. Creiamo una variabile per determinare il prezzo del biglietto in base ai chilometri.
+1. Chiediamo all'utente la sua età e salviamo i dati in una variabile.
+1. Verificare se l'utente è minorenne o over 65 e applicare sconto del 20% o 40%.
+1. Scrivere prezzo finale all'utente.
